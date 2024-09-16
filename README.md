@@ -1,4 +1,3 @@
 # MyWADRepo
 
-this is a test repo
-9lol
+this is a HTML repo
